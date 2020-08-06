@@ -1,0 +1,15 @@
+body{
+    color:rgb(76, 0, 255);
+    background-color: lightcoral;
+    font-style: italic;
+    border:2px solid black
+}
+.black-border{
+    border:5px solid black;
+}
+#green-background{
+    font-size: 20px;
+}
+.dik{
+    font-weight: bold;
+}
